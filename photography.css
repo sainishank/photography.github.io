@@ -369,7 +369,7 @@ table{
     text-align: center;
 }
 
-@media (max-width:1080px)
+@media (max-width:700px)
 {
     .nav-links img{
         height: 50px;
