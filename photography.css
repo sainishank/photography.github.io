@@ -509,6 +509,9 @@ table{
         padding-bottom: 10px;
     }
     /*--------contact-------*/
+    .sec{
+        width:100%;
+    }
     .sec3 p{
         font-size: 14px;
         margin: 8px;
